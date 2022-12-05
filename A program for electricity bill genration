@@ -1,0 +1,19 @@
+#electricity bill genration
+#input : no of u its consumed
+#0-100 => 0.50 per units
+#100-150 => 1.25 per units
+#150 > 2.50 per units
+
+# program to genrate electricity bill
+#input units consumed
+unitsConsumed = int(input("enter units consumed: " ))
+#bill genration
+billToBePaid = 0
+if unitsConsumed >= 0 and unitsConsumed < 100 :
+   billToBePaid = unitsConsumed*0.50
+if unitsConsumed  < 150 and unitsConsumed >= 100 :
+   billToBePaid = unitsConsumed *1.25
+if unitsConsumed  >= 150 :
+   billToBePaid = unitsConsumed *2.50
+   
+print ( " you should pay " , billToBePaid, " Rs " )
