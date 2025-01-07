@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanshu
-- 👀 I’m interested in Python,HTML and CSS
-- 🌱 I’m currently learning Python,HTML and CSS
+- 👀 I’m interested in Python,JAVA,HTML,CSS,JS,NodeJS, MogoDB and ReactJS  
+- 🌱 I’m currently learning Python,JAVA,HTML,CSS,JS,NodeJS, MogoDB and ReactJS  
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me at devanshu2343@gmail.com
 
